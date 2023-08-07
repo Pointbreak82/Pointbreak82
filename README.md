@@ -5,7 +5,7 @@
 
 
 
-![Profile Image]([https://raw.githubusercontent.com/your-username/your-repository-name/main/images/your-image.png](https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png))
+![Image Alt Text]([https://raw.githubusercontent.com/your-username/your-repository-name/main/images/your-image.png](https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png))
 
 
 
