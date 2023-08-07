@@ -10,8 +10,7 @@
 <!-- About Me -->
 - 🌱 I'm currently nurturing my skills in Data Analysis and Machine Learning and Deep Learning, ready to bloom as a data scientist.
 - 💬 Ask me about Python, Data Visualization, or anything meme-related.
-- 📊🎮 When not immersed in data, you'll find me indulging in the virtual realms of video games. 
-
+- 📊🎮 When not immersed in data, you'll find me indulging in the virtual realms of video games.
 
 
 <!-- Connect with Me -->
