@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Tarun!
 <!-- Your Name's GitHub Profile -->
 
-
-![Programming Meme](https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg)
 <!--
-![Programming Meme](https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/1o40ej.jpg)
+![Programming Meme](https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg)
 -->
+![Programming Meme](https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/1o40ej.jpg)
+
 
 <!-- About Me -->
 - 🌱 I'm currently nurturing my skills in Data Analysis and Machine Learning and Deep Learning, ready to bloom as a data scientist.
