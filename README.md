@@ -7,7 +7,7 @@
 ![Programming Meme](https://datasciencedojo.com/wp-content/uploads/19-1030x922.jpg)
 ![Programming Meme](https://datasciencedojo.com/wp-content/uploads/17.jpg)
 ![Programming Meme](https://datasciencedojo.com/wp-content/uploads/19-1030x922.jpg)
-
+![Programming Meme](https://datasciencedojo.com/wp-content/uploads/70.png)
 ![Programming Meme](https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg)
 -->
 ![Programming Meme](https://datasciencedojo.com/wp-content/uploads/52.jpg)
