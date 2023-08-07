@@ -8,12 +8,11 @@
 ![Programming Meme](https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/1o40ej.jpg)
 -->
 
-I'm a Data Pattern Seeker | Meme Enthusiast based in Your Location. Welcome to my GitHub world! 🌎
 
 <!-- About Me -->
-- 🌱 I’m currently learning Data Analysis and Machine Learning.
-- 💡 I love exploring new memes and creating humorous content.
+- 🌱 I'm currently nurturing my skills in Data Analysis and Machine Learning and Deep Learning, ready to bloom as a data scientist.
 - 💬 Ask me about Python, Data Visualization, or anything meme-related.
+-📊🎮 When not immersed in data, you'll find me indulging in the virtual realms of video games. 
 
 
 
