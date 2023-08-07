@@ -4,8 +4,9 @@
 
 
 ![Programming Meme](https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg)
-
-
+<!--
+![Programming Meme](https://149695847.v2.pressablecdn.com/wp-content/uploads/2017/06/1o40ej.jpg)
+-->
 
 I'm a Data Pattern Seeker | Meme Enthusiast based in Your Location. Welcome to my GitHub world! 🌎
 
@@ -13,7 +14,7 @@ I'm a Data Pattern Seeker | Meme Enthusiast based in Your Location. Welcome to m
 - 🌱 I’m currently learning Data Analysis and Machine Learning.
 - 💡 I love exploring new memes and creating humorous content.
 - 💬 Ask me about Python, Data Visualization, or anything meme-related.
-- 😄 Pronouns: He/Him.
+
 
 
 <!-- Connect with Me -->
