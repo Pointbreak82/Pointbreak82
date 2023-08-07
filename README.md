@@ -19,6 +19,18 @@ I'm a Data Pattern Seeker | Meme Enthusiast based in Your Location. Welcome to m
 <!-- Connect with Me -->
 ### Let's Connect! 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-v-g-270759206/){:target="_blank"}
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge)](https://tarun-vg.netlify.app/){:target="_blank"}
+<!-- Connect with Me -->
+### Let's Connect! 🤝
+
+<a href="https://www.linkedin.com/in/tarun-v-g-270759206/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<!--
+<a href="https://twitter.com/your-twitter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+-->
+<a href="https://tarun-vg.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge" alt="Portfolio" />
+</a>
 
