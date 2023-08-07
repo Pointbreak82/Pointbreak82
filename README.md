@@ -19,6 +19,6 @@ I'm a Data Pattern Seeker | Meme Enthusiast based in Your Location. Welcome to m
 <!-- Connect with Me -->
 ### Let's Connect! 🤝
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tarun-v-g-270759206/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tarun-v-g-270759206/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge)]([https://your-portfolio](https://tarun-vg.netlify.app/))
 
