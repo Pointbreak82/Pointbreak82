@@ -3,7 +3,7 @@
 
 
 
-![Programming Meme](https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png)
+![Programming Meme](https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg)
 
 
 
