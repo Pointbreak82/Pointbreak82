@@ -12,11 +12,6 @@
 
 -->
 ![Programming Meme](https://datasciencedojo.com/wp-content/uploads/70.png)
-<!-- About Me -->
-- 🌱 I'm currently nurturing my skills in Data Analysis and Machine Learning and Deep Learning, ready to bloom as a data scientist.
-- 💬 Ask me about Python, Data Visualization, or anything meme-related.
-- 📊🎮 When not immersed in data, you'll find me indulging in the virtual realms of video games.
-
 
 <!-- Connect with Me -->
 ### Let's Connect! 🤝
